@@ -19,3 +19,5 @@ Key Features Implemented:
 
 
 7. Responsive Design: Works well across devices due to responsive CSS.
+
+8. Also host a webpage to the hosting website called a (vercel.app)
